@@ -22,7 +22,11 @@ Sou densenvolvedor frontend,mas atualmente busco me aprimorar no backend.
 <div/>
 
  ## Estatísticas
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edualves4785&" alt="edualves4785" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=EduAlves4785&theme=tokyonight&hide_border=true&locale=pt_BR" alt="edualves4785" /></p>
+ 
+
+
+
 
           
           
